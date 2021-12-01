@@ -13,11 +13,11 @@ Reads in the Excel files as entered by the coders and produces corresponding .dt
 
 Combine the separate dta files for each register into a single file, link to produce personal identifiers, and create variables
 
-[Produce CMGPD-Liaoning Extract for ICPSR](CMGPD-LN Extract for ICPSR 7 cdc.do)
+[Produce CMGPD-Liaoning Extract for ICPSR](<CMGPD-LN Extract for ICPSR 7 cdc.do>)
 
 Extract variables and rename them to produce the CMGPD-LN shared on ICPSR.
 
-[Produce CMGPD-Shuangcheng Extract for ICPSR](CMGPD_SC_extract_for_ICPSR 10 cdc.do)
+[Produce CMGPD-Shuangcheng Extract for ICPSR](<CMGPD_SC_extract_for_ICPSR 10 cdc.do>)
 
 Extract variables and rename them to produce the CMGPD-SC shared on ICPSR.
 
